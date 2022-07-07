@@ -8,13 +8,14 @@ Easy to design and change along the way
 
 NO special machinary is needed, can work in ordinary small workshop
 
+
 Frame Options : 
 
-A Pressure Pipe (Grey Pipe) with information in PipeFrame.docx
+A> Pressure Pipe (Grey Pipe) with information in PipeFrame.docx
 
-B Aluminium Extruded Frame with information in AluminiumFrame.docs
+B> Aluminium Extruded Frame with information in AluminiumFrame.docs
 
-C Wire cut Prespex or Nylon with wireframe NC file
+C> Wire cut Prespex or Nylon with wireframe NC file
 
 Thruster Bracket :
 
