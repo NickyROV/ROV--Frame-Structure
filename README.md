@@ -1,6 +1,6 @@
 # Welcome to GitHub Desktop!
 
-In ROV design, there are several material options to choose from to made the frame, and we limited ourselves to off-the shelf material which can be easily get from store like 'Home Depot" or local harware store, the rules are :
+In ROV design, there are several material options to choose from to made the frame, and we limited ourselves to off-the shelf material which can be easily get from store like 'Home Depot" or local harware store, rules are :
 
 Cheap and easy to work with
 
@@ -19,5 +19,5 @@ C> Wire cut Prespex or Nylon with wireframe NC file
 
 Thruster Bracket :
 
-ABS+ 3D print with Acetone smoothing, CAD file in STL format
-
+A>  ABS+ 3D print with Acetone smoothing, CAD file in STL format
+B>  Aluminium Bracket out of Aluminium Angle
