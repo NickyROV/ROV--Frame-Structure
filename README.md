@@ -14,6 +14,7 @@ Frame Options :
 A> Pressure Pipe (Grey Pipe) with information in PipeFrame.docx
 
 B> Aluminium Extruded Frame with information in AluminiumFrame.docs
+Specific gravity of Al is 2.7, which may impose a challenge on buoyance arrangement.
 
 C> Wire cut Prespex or Nylon with wireframe NC file
 
